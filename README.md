@@ -1,3 +1,3 @@
 http://appdev.openshift.io/docs/vertx-runtime.html#mission-http-api-vertx
 
-changes added on: 1526549830499
+changes added on: 1526550384238
